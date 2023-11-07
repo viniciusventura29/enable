@@ -12,7 +12,7 @@
   "devDependencies": {
     "@sveltejs/vite-plugin-svelte": "^2.4.2",
     "@tsconfig/svelte": "^5.0.0",
-    "sdk": "workspace:*",
+    "@enable/ts-sdk": "workspace:*",
     "svelte": "^4.0.3",
     "svelte-check": "^3.4.4",
     "tslib": "^2.6.0",
